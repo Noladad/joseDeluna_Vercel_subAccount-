@@ -1,4 +1,5 @@
 {
+  "root": "jose-deluna-website-vercel-ready/source-code",
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
